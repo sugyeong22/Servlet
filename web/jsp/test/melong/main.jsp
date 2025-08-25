@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="wrap">
-        <header></header>
+        <header class="head bg-danger"></header>
         <nav></nav>
         <section></section>
         <footer></footer>
